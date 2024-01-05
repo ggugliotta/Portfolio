@@ -2,7 +2,6 @@
 
 
   # Gabriella Gugliotta's Portfolio
-View all of my work here!
 
 <br/>
 <p align="center">
