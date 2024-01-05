@@ -1,5 +1,3 @@
-
-
 ### Live - https://gabriellagugliotta.netlify.app/
 
 
@@ -8,12 +6,12 @@ View all of my work here!
 
 <br/>
 <p align="center">
-  <a href="https://github.com/ggugliotta/vibeVenture">
+  <a href="https://github.com/ggugliotta/Portfolio">
     <img src="public/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <p align="center">
-    Catch a vibe near you
+    View my work
     <br/>
     <br/>
     <a href="https://github.com/ggugliotta/vibeVenture"><strong>Explore the docs »</strong></a>
@@ -75,8 +73,7 @@ To get a local copy up and running follow these simple steps.
 ```sh
 "name": "react-portfolio-template",
   "version": "3.0",
-  "private": true,
-  "scripts": {
+  "scripts": 
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
