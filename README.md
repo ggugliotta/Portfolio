@@ -6,7 +6,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ggugliotta/Portfolio">
-    <img src="Screenshot.png" alt="portfolio screenshot" width="300" height="300">
+    <img src="Screenshot.png" alt="portfolio screenshot" width="800" height="500">
   </a>
 
   <p align="center">
