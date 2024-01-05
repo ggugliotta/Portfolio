@@ -6,7 +6,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ggugliotta/Portfolio">
-    <img src="public/logo.png" alt="Logo" width="300" height="300">
+    <img src="Screenshot 2023-12-20 130353.png" alt="portfolio screenshot" width="300" height="300">
   </a>
 
   <p align="center">
