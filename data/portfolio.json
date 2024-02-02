@@ -65,8 +65,8 @@
       "id": "5",
       "title": "Flickette Movie API",
       "description": "Backend application API utilizing MongoDB, Express.js, React.js, and Node.js",
-      "imageSrc": "https://github.com/ggugliotta/movie-app",
-      "url": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Logo%20.png"
+      "imageSrc": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Logo%20.png",
+      "url": "https://github.com/ggugliotta/movie-app"
     },
     {
       "id": "6",
