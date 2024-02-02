@@ -40,7 +40,7 @@
     {
       "id": "1",
       "title": "VibeVenture - Event Locator Progressive Web Application",
-      "description": "Front-end: React, JS, Recharts & hosted on GitHub pages. Back-end: React, JS, Node.js, Express.js (Lambda functions) and hosted on AWS.",
+      "description": "Front-end: React, JS, Recharts & hosted on GitHub pages. Back-end: React, JS, Node.js, Express.js (Lambda functions) and hosted on Amazon Web Services.",
       "imageSrc": "https://github.com/ggugliotta/VibeVenture/raw/Main-VibeVenture/public/logo.png",
       "url": "https://ggugliotta.github.io/VibeVenture/"
     },
