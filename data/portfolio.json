@@ -54,21 +54,21 @@
     {
       "id": "3",
       "title": "Flickette Movie App - React Version",
-      "description": "SPA responsive app with routing, interactions, and interface views. Built in ES2015+, MongoDB. Express.js, React, Node.js, Bootstrap, and Redux. Utilizes render to connect with my API and netlify for front-end hosting.",
+      "description": "SPA responsive front-end app with routing, interactions, and interface views. Built in ES2015+, Javascript, and React. Utilizes render to connect with my Flickette API and netlify for front-end hosting.",
       "imageSrc": "https://github.com/ggugliotta/myFlix-client/raw/main/Flickette%20Movie%20View%20Screenshot.png",
       "url": "https://flickette.netlify.app"
     },
     {
       "id": "4",
-      "title": "Flickette - Angular Version",
-      "description": "SPA responsive movie app generated with Angular CLI version 17.0.7. Utilizes routing, interactions, and interface views. Built in ES2015+, MongoDB, and Angular. Utilizes render to connect with my API and ghpages for front-end hosting.",
+      "title": "Flickette Movie App - Angular Version",
+      "description": "SPA responsive movie app generated with Angular CLI version 17.0.7. Utilizes routing, interactions, and interface views. Built with Typescript in Angular. Utilizes render to connect with my API and ghpages for front-end hosting.",
       "imageSrc": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Sign%20in%20Page.png",
       "url": "https://ggugliotta.github.io/myFlix-Angular-client/"
     },
     {
       "id": "5",
       "title": "Flickette Movie API",
-      "description": "Backend application API utilizing MongoDB, Express.js, React.js, and Node.js",
+      "description": "Backend application API utilizing MongoDB, Express.js, React.js, Bootstrap, Redux and Node.js",
       "imageSrc": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Logo%20.png",
       "url": "https://github.com/ggugliotta/movie-app"
     },
