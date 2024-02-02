@@ -129,11 +129,11 @@
         "bullets": "Executed Customer Experience Improvement Campaigns for multi-billion dollar corporation, Created Business Models for proposed new ventures and offerings, Led Competitive Analysis and identified market trends and internal needs for website expansion project"
       }
     ],
-    "Certification": {
-      "Name": "CareerFoundry",
-      "Date": "2022-2024",
-      "Certificate": "Full-Stack Web Development",
-      "Description": "A self-paced, online program that covers the entire web development process, from front-end to back-end, and provides hands-on experience with industry-standard tools, libraries, and frameworks. The program includes a comprehensive curriculum, real-world projects, and mentorship from experienced developers."
+    "certification": {
+      "name": "CareerFoundry",
+      "date": "2022-2024",
+      "certificate": "Full-Stack Web Development",
+      "description": "A self-paced, online program that covers the entire web development process, from front-end to back-end, and provides hands-on experience with industry-standard tools, libraries, and frameworks. The program includes a comprehensive curriculum, real-world projects, and mentorship from experienced developers."
     },
     "education": {
       "universityName": "Drake University ",
