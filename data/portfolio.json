@@ -25,11 +25,11 @@
       "title": "Email",
       "link": "mailto:gabriellagugliotta1@gmail.com"
     },
-    { "id": "6", "title": "X", "link": "www.twitter.com/codingcoolcat" },
+    { "id": "6", "title": "X", "link": "www.twitter.com/CodingCoolCat" },
     {
       "id": "7",
       "title": "Medium",
-      "link": "www.medium.com/gabriella_the_codingcoolcat"
+      "link": "www.medium.com/@gabriella_the_codingcoolcat"
     }
   ],
   "projects": [
@@ -42,24 +42,38 @@
     },
     {
       "id": "2",
+      "title": "Zing Ping",
+      "description": "Chat App created in ReactNative, Expo, Andriod SDK, Gifted Chat and Google Firebase",
+      "imageSrc": "https://github.com/ggugliotta/Chat-App/raw/main/ZingPing.png",
+      "url": "https://github.com/ggugliotta/Chat-App"
+    },
+    {
+      "id": "3",
       "title": "Flickette - React Version",
       "description": "SPA responsive movie app",
       "imageSrc": "https://github.com/ggugliotta/myFlix-client/raw/main/Flickette%20Logo%20.png",
       "url": "https://flickette.netlify.app"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Flickette - Angular Version",
       "description": "SPA responsive movie app",
       "imageSrc": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Logo%20.png",
       "url": "https://ggugliotta.github.io/myFlix-Angular-client/"
     },
     {
-      "id": "4",
-      "title": "Zing Ping",
-      "description": "Chat App created in ReactNative, Expo, Andriod SDK, Gifted Chat and Google Firebase",
-      "imageSrc": "https://github.com/ggugliotta/Chat-App/raw/main/ZingPing.png",
-      "url": "https://github.com/ggugliotta/Chat-App"
+      "id": "5",
+      "title": "Flickette Movie API",
+      "description": "Backend application API utilizing MongoDB, Express.js, React.js, and Node.js",
+      "imageSrc": "https://github.com/ggugliotta/movie-app",
+      "url": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Logo%20.png"
+    },
+    {
+      "id": "6",
+      "title": "Pokemon App",
+      "description": "Built with HTML, CSS, Javascript, JQuery, and Bootstrap that loads external API data to display Pokemon characters and their details",
+      "imageSrc": "https://private-user-images.githubusercontent.com/110942966/282502612-9285662e-c253-45b3-81bc-8404f65cd564.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY5MDA5MTcsIm5iZiI6MTcwNjkwMDYxNywicGF0aCI6Ii8xMTA5NDI5NjYvMjgyNTAyNjEyLTkyODU2NjJlLWMyNTMtNDViMy04MWJjLTg0MDRmNjVjZDU2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwMlQxOTAzMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMjY3ZGZlNTBlZWM4M2ZhZTgxZWM4MjMyNzIxN2ZhYTdkZjAwODBjZmQ5NDUxMjA4NDZmOTJlN2RiYWU1YWFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.FGxLj4c373q9C7pggvRV2A2FBs6VnOwlik6tOXFsuSM",
+      "url": "https://github.com/ggugliotta/Pokemon-App"
     }
   ],
   "services": [
@@ -84,9 +98,9 @@
       "description": "Content Management Systems (CMS): Proficiency in working with platforms like WordPress for content-driven websites and HubSpot, Google Analytics for website analysis.\nTesting and Quality Assurance: Conducting tests to ensure high performance, usability, and security of websites and applications.\nAgile Development Methodologies: Implementing agile methodologies for efficient and collaborative project development."
     }
   ],
-  "aboutpara": "Welcome to my portfolio website! I am a computer programmer with a seasoned background in qualitative and quantitative data analysis. My passion for contributing to meaningful change drives my purpose in life and work. In addition, I am a huge advocate for life-long learning and enjoy delving into new challenges. Right now, I am tackling driving manual, weightlifting, and coding in Python!\n\n Interested in connecting? Message me on LinkedIn or send me an email at gabriellagugliotta96@gmail.com. \n",
+  "aboutpara": "Welcome to my portfolio website! I am a web developer with a seasoned background in qualitative and quantitative data analysis. My passion for contributing to meaningful change drives my purpose in life and work. In addition, I am a huge advocate for life-long learning and enjoy delving into new challenges. Right now, I am tackling driving manual, weightlifting, and coding in Python!\n\n Interested in connecting? Message me on LinkedIn or send me an email at gabriellagugliotta1@gmail.com. \n",
   "resume": {
-    "tagline": "👋  I'm a full-stack computer programmer",
+    "tagline": "👋  I'm a full-stack web developer",
     "description": "Well-versed with Javascript, MERN stack, Web Accessibility, and most web frameworks. I am fluent in English and proficient in reading/writing/conversing in Spanish.",
     "experiences": [
       {
