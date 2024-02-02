@@ -88,7 +88,7 @@
     },
     {
       "id": "2",
-      "title": "Back-end Development ",
+      "title": "Back-End Development ",
       "description": "Server-Side Languages: Expertise inNode.js and JavaScript for server-side programming.\nDatabase Management: Designing, implementing, and managing databases using SQL or NoSQL technologies.\nAPI Development: Creating robust Application Programming Interfaces (APIs) for data exchange between different software systems.\nServer Management: Configuring and maintaining servers, ensuring optimal performance and security.\nAuthentication and Security: Implementing secure user authentication and data protection measures."
     },
     {
@@ -102,56 +102,84 @@
       "description": "Content Management Systems (CMS): Proficiency in working with platforms like WordPress for content-driven websites and HubSpot, Google Analytics for website analysis.\nTesting and Quality Assurance: Conducting tests to ensure high performance, usability, and security of websites and applications.\nAgile Development Methodologies: Implementing agile methodologies for efficient and collaborative project development."
     }
   ],
-  "aboutpara": "Welcome to my portfolio website! I am a web developer with a seasoned background in qualitative and quantitative data analysis. My passion for contributing to meaningful change drives my purpose in life and work. In addition, I am a huge advocate for life-long learning and enjoy delving into new challenges. Right now, I am tackling driving manual, weightlifting, and coding in Python!\n\n Interested in connecting? Message me on LinkedIn or send me an email at gabriellagugliotta1@gmail.com. \n",
+  "aboutpara": "Welcome to my portfolio website! I am a web developer dedicated to crafting user-friendly and accesible web applications that address real-world challenges. Let's connect and explore how my skills and experience can contribute to your team's success. \n",
   "resume": {
-    "tagline": "👋  I'm a full-stack web developer",
-    "description": "Well-versed with Javascript, MERN stack, Web Accessibility, and most web frameworks. I am fluent in English and proficient in reading/writing/conversing in Spanish.",
+    "tagline": "👋  I'm Gabriella",
+    "description": "A full-stack web developer with a passion for creating user-friendly and accessible web applications. I have a strong foundation in front-end and back-end development, and I am skilled in using a variety of programming languages, frameworks, and tools. I am dedicated to delivering high-quality, responsive, and interactive web solutions that meet the unique needs of clients and users. I am committed to continuous learning and professional growth, and I am excited to contribute to innovative projects and collaborate with talented teams.",
     "experiences": [
       {
         "id": "1",
         "dates": "March 2022 - January 2023",
         "type": "Full Time",
         "position": "Community Events & Engagement Specialist | Women In Research ",
-        "bullets": "Managed social media channels with over 20k followers, Grew social media membership by over 33% through coordinated outreach efforts,  Posted over 2k social media updates, Quantified social growth through monthly and quarterly metrics reports, Administrator for Women In Research Slack channels, Compiled CRM data for membership retention and corporate donor support, Presented results on the 2022 WIRe Gender and Career Equity study; consulted on five-year action plan to improve equity within the industry to Board Members, Managed live events such as Pre-Conference Dinners and Lunch & Learns"
+        "bullets": "Managed social media channels, increasing membership by over 33% ,  Posted over 2k social media updates on events, partnerships, industry news, and fundraising efforts, Presented results on the 2022 WIRe Gender and Career Equity study; consulted on five-year action plan to improve equity within the industry to board members"
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
         "dates": "February 2021 - December 2021",
         "type": "Full Time",
         "position": "Administrative Assistant II | Iowa State University ",
-        "bullets": "Coordinated Department Chair’s meetings and managed calendar, Managed requests for grant funding / key access / conference funding / IT service / software and business licensing, Executed quarterly Executive Advisory Council meetings, Completed data analysis for 2023 Department Accreditation and 2021 Promotion and Tenure, Trained and managed four student assistants, Organized and led visits of donors and stakeholders, Accepted into the 2021 Iowa State Cardinal Women Program"
+        "bullets": "Coordinated Department Chair’s meetings and managed calendar, Conducted research, data analysis, and reports for Department's accreditation, Onboarded and managed four student assistants"
       },
       {
         "id": "a3a01934-1e0e-43d4-856d-0d053169a4bf",
         "dates": "October 2018 - April 2020",
         "type": "Full Time",
         "position": "Market Research Specialist | Federal Signal ",
-        "bullets": "Acted as an internal consultant by executing Customer Experience Improvement Campaigns for multi-billion dollar corporation, Created Business Models for proposed new ventures and offerings for various subsidiaries such as Elgin Sweeper Company, Worked with subsidiaries and Innovation Lab on special projects to improve market share and presented findings to C-Suite, Gathered market intelligence through interviewing primary stakeholders in North America, Utilized Design Thinking Methodology to execute research, Collaborated with engineers during “Ideation Sessions” regarding equipment expansion ideas, Analyzed qualitative and quantitative data for business ventures and earnings, Led competitive analysis and identified market trends and internal needs for website expansion project"
+        "bullets": "Executed Customer Experience Improvement Campaigns for multi-billion dollar corporation, Created Business Models for proposed new ventures and offerings, Led Competitive Analysis and identified market trends and internal needs for website expansion project"
       }
     ],
+    "Certification": {
+      "Name": "CareerFoundry",
+      "Date": "2022-2024",
+      "Certificate": "Full-Stack Web Development",
+      "Description": "A self-paced, online program that covers the entire web development process, from front-end to back-end, and provides hands-on experience with industry-standard tools, libraries, and frameworks. The program includes a comprehensive curriculum, real-world projects, and mentorship from experienced developers."
+    },
     "education": {
       "universityName": "Drake University ",
       "universityDate": "2014 - 2018",
-      "universityPara": "Bachelor of Arts in Law, Politics, and Society; Concentration in Leadership Studies "
+      "universityPara": "Bachelor of Arts in Law, Politics, and Society; Concentration in Leadership Studies ",
+      "universityGPA": "3.8",
+      "universityAwards": "Dean's List, 2014-2018, Presidential Scholarship Recipient, 2014-2018",
+      "universityActivities": "STEM Mentor - Des Moines Public Schools, Community Action Board - President, Service-Learning Ambassador, Big Brothers Big Sisters Mentor, Habitat for Humanity Volunteer, ",
+      "honors": "Newman Civic Fellowship - Nationwide Award granted by Iowa Campus Compact and Drake University President"
     },
     "languages": ["Javascript", "HTML5", "CSS/SCSS", "TypeScript"],
-    "frameworks": ["React", "NodeJs", "Bootstrap", "jQuery"],
-    "deployment": ["AWS", "Heroku", "Netlify", "GitHub Pages"],
+    "frameworks": ["React", "Angular"],
+    "deployment": ["Heroku", "Netlify", "GitHub Pages", "Expo"],
     "others": [
-      "MongoDB",
-      "Express.js",
-      "JavaScript Syntax Extension (JSX/JavaScript XML)",
-      "Test Driven Development (TDD)",
-      "Recharts ",
-      "Atatus ",
-      "Jest",
-      "Cucumber ",
-      "Puppeteer",
-      "JS Popper",
+      "Agile Development",
+      "Amazon Web Services (AWS)",
+      "Application Programming Interfaces (APIs)",
+      "Atatus",
       "Babel",
+      "Bootstrap",
+      "Cucumber",
+      "Cross-Browser Testing and Debugging",
+      "Data Visualization Library (Recharts)",
+      "Express.js",
       "Git/GitHub",
+      "Gifted Chat",
+      "Google Analytics",
+      "Google Firebase",
+      "Functional Programming",
+      "JavaScript Syntax Extension (JSX/JavaScript XML)",
+      "Jest",
+      "JS Popper",
+      "jQuery",
+      "MongoDB",
+      "Node.js",
+      "Object-Oriented Programming",
+      "Operational Data Management Systems",
       "Postgresql",
-      "Postman"
+      "Postman",
+      "Puppeteer",
+      "Redux",
+      "Responsive Web Design",
+      "SQL",
+      "Test Driven Development (unit, integration, acceptance, and end-to-end testing)",
+      "Web Accessibility",
+      "Webpack"
     ]
   }
 }
