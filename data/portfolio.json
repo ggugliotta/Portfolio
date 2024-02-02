@@ -44,14 +44,14 @@
       "id": "2",
       "title": "Flickette - React Version",
       "description": "SPA responsive movie app",
-      "imageSrc": "https://github.com/ggugliotta/myFlix-client/raw/main/FlicketteLogo.png",
+      "imageSrc": "https://github.com/ggugliotta/myFlix-client/raw/main/Flickette%20Logo%20.png",
       "url": "https://flickette.netlify.app"
     },
     {
       "id": "3",
       "title": "Flickette - Angular Version",
       "description": "SPA responsive movie app",
-      "imageSrc": "https://github.com/ggugliotta/myFlix-Angular-client/raw/main/FlicketteLogo.png",
+      "imageSrc": "https://github.com/ggugliotta/myFlix-Angular-client/raw/master/Flickette%20Logo%20.png",
       "url": "https://ggugliotta.github.io/myFlix-Angular-client/"
     },
     {
