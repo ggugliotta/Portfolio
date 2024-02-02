@@ -105,21 +105,21 @@
   "aboutpara": "Welcome to my portfolio website! I am a web developer dedicated to crafting user-friendly and accesible web applications that address real-world challenges. Let's connect and explore how my skills and experience can contribute to your team's success. \n",
   "resume": {
     "tagline": "From Pixels to Databases: Creating Holistic Web Solutions",
-    "description": "I am a full-stack web developer with a passion for creating user-friendly and accessible web applications. I have a strong foundation in front-end and back-end development, and I am skilled in using a variety of programming languages, frameworks, and tools. I am dedicated to delivering high-quality, responsive, and interactive web solutions that meet the unique needs of clients and users. I am committed to continuous learning and professional growth, and I am excited to contribute to innovative projects and collaborate with talented teams.",
+    "description": "I am a full-stack web developer with a passion for creating user-friendly and accessible web applications. I have a strong foundation in front-end and back-end development, and I am skilled in using a variety of programming languages, frameworks, and tools. I am dedicated to delivering high-quality, responsive, and interactive web solutions that meet the unique needs of clients and users.",
     "experiences": [
       {
         "id": "1",
         "dates": "March 2022 - January 2023",
         "type": "Full Time",
         "position": "Community Events & Engagement Specialist | Women In Research ",
-        "bullets": "Managed social media channels, increasing membership by over 33% ,  Posted over 2k social media updates on events, partnerships, industry news, and fundraising efforts, Presented results on the 2022 WIRe Gender and Career Equity study; consulted on five-year action plan to improve equity within the industry to board members"
+        "bullets": "Managed social media channels and increased membership by over 33% ,  Posted over 2k social media updates on industry news and fundraising efforts, Presented results on the 2022 WIRe Gender and Career Equity study; consulted on five-year action plan to improve equity within the industry to board members"
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
         "dates": "February 2021 - December 2021",
         "type": "Full Time",
         "position": "Administrative Assistant II | Iowa State University ",
-        "bullets": "Coordinated Department Chair’s meetings and managed calendar, Conducted research, data analysis, and reports for Department's accreditation, Onboarded and managed four student assistants"
+        "bullets": "Coordinated Department Chair’s meetings and managed calendar, Conducted research and data analysis for Department's accreditation, Onboarded and managed four student assistants"
       },
       {
         "id": "a3a01934-1e0e-43d4-856d-0d053169a4bf",
