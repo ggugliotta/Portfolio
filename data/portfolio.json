@@ -76,7 +76,7 @@
       "id": "6",
       "title": "Pokemon App",
       "description": "Built with HTML, CSS, Javascript, JQuery, and Bootstrap that loads external API data to display Pokemon characters and their details",
-      "imageSrc": "https://github.com/ggugliotta/Pokemon-App/blob/master/Pokedex.png",
+      "imageSrc": "https://github.com/ggugliotta/Pokemon-App/raw/master/Pokedex.png",
       "url": "https://ggugliotta.github.io/Pokemon-App/"
     }
   ],
