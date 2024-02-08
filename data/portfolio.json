@@ -76,7 +76,7 @@
       "id": "6",
       "title": "Pokemon App",
       "description": "Built with HTML, CSS, Javascript, JQuery, and Bootstrap that loads external API data to display Pokemon characters and their details",
-      "imageSrc": "https://private-user-images.githubusercontent.com/110942966/282502612-9285662e-c253-45b3-81bc-8404f65cd564.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczNjM0OTgsIm5iZiI6MTcwNzM2MzE5OCwicGF0aCI6Ii8xMTA5NDI5NjYvMjgyNTAyNjEyLTkyODU2NjJlLWMyNTMtNDViMy04MWJjLTg0MDRmNjVjZDU2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwOFQwMzMzMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDA3NmRiNTZhYzZlMjE3OGI5YTU2ZDA1YTA5ZWU2N2YyNGJkYmRiYTk4ZjhlMDkwN2Q3ZWVhMDIxZWZiMTU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.67CZrlAiDGiFYLmChLdQiuPqQDmRRPofaUgOeeviPZU",
+      "imageSrc": "https://github.com/ggugliotta/Pokemon-App/blob/master/Pokedex.png",
       "url": "https://ggugliotta.github.io/Pokemon-App/"
     }
   ],
